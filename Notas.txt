@@ -1,0 +1,7 @@
+---- Notas ----
+
+Web Scraping con Nodejs y Puppeteer - YouTube
+https://youtu.be/gBnrdedhuU4
+
+Tutorial Escrito
+https://faztweb.com/contenido/introduccion-a-puppeteer-nodejs
