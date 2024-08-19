@@ -1,0 +1,10 @@
+---- Notas ----
+
+Web Scraping con Nodejs y Puppeteer - YouTube
+https://youtu.be/gBnrdedhuU4
+
+Codigo del Ejemplo
+https://gist.github.com/fazt/497cbe26ef9f6ca038b4ea188ff048d3
+
+Tutorial Escrito
+https://faztweb.com/contenido/introduccion-a-puppeteer-nodejs
